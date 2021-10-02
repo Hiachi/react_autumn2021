@@ -1,0 +1,16 @@
+.noti {
+    background-color: rgb(184,215,255);
+    font-size: 25px;
+    height: 60px;
+    line-height: 60px;
+
+    width: 90%;
+    max-width: 990px;
+    margin: 0 auto;
+    margin-bottom: 1px;
+}
+
+.topic {
+    padding-left: 20px;
+    font-weight: bold;
+}

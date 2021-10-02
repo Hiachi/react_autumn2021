@@ -1,0 +1,16 @@
+.context {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 110px;
+    float: left;
+}
+
+.btn {
+    display: block;
+    /* margin: auto; */
+    margin-top: 50px;
+    margin-left: 80px;
+    background-color: rgb(233, 53, 224);
+    font-weight: bold;
+    border: none;
+}

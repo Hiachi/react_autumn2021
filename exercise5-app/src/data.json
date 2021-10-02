@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Asus Strix G531GT HN553T i5 9300H/8GB/512G SSD",
+      "manufacture": "",
+      "category": "",
+      "price": 949,
+      "subPrice": 18,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp01.png",
+      "sellOff": 50,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Acer Swift 5 SF514 53T 720R/Core i7 8565U/NX.H7HSV.002",
+      "manufacture": "",
+      "category": "",
+      "price": 919,
+      "subPrice": 18,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp02.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "MSI GF63 9SCSRi5 512GB SSD/Nvidia GTX1650Ti",
+      "manufacture": "",
+      "category": "",
+      "price": 939,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp03.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro 16 2019 Touch Bar 2.3GHz Core i9 1TB",
+      "manufacture": "",
+      "category": "",
+      "price": 2899,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp04.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "MacBook Pro 13 2020 Touch Bar 2.0GHz Core i5 512GB",
+      "manufacture": "",
+      "category": "",
+      "price": 1899,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp12.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "ASUS Expertbook B9450FA BM0616R i7 1TB SSD",
+      "manufacture": "",
+      "category": "",
+      "price": 1999,
+      "subPrice": 26,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp06.png",
+      "sellOff": 25,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Dell XPS 15 9500 i7 10750H/16GB/512GB/GTX 1650 Ti 4GB",
+      "manufacture": "",
+      "category": "",
+      "price": 2499,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp07.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Acer Nitro 5 AN515 54 779S i7 9750H/8GB/512GB",
+      "manufacture": "",
+      "category": "",
+      "price": 1399,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp10.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Dell Vostro 5481/Core i5-8265U/V4I5227W",
+      "manufacture": "",
+      "category": "",
+      "price": 769,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp09.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Dell Inspiron N7490 i5 512GB/NVIDIA MX250",
+      "manufacture": "",
+      "category": "",
+      "price": 1021,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp08.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "MacBook Air 13 2020 1.1GHz Core i5 512GB",
+      "manufacture": "",
+      "category": "",
+      "price": 1459,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp11.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "MacBook Pro 13 2019 Touch Bar 2.4GHz Core i5",
+      "manufacture": "",
+      "category": "",
+      "price": 2099,
+      "subPrice": 0,
+      "rating": 4,
+      "inCart": 0,
+      "stock": 5,
+      "image": "sp05.png",
+      "sellOff": 0,
+      "promos": [
+          "Winner of the Pulitzer Prize in Fiction",
+          "Shortlisted for the Man Booker Prize",
+          "New York Times Bestseller",
+          "A New York Times Notable Book and a Washington Post, Time, Oprah Magazine, Newsweek, Chicago Tribune, and Kirkus Reviews Best Book of 2018",
+          "The best novel ever written about trees, and really just one of the best novels, period.' ―Ann"
+      ]
+    }
+  ]
+}

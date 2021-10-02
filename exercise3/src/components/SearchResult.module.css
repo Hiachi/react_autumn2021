@@ -1,0 +1,103 @@
+:root {
+  --white-color: #fff;
+  --back-color: #000;
+  --text-color: #333;
+  --main-color: #CD1718;
+  --ground-color: #F4F5F7;    
+}
+
+.product {
+  font-size: 14px;
+  /* width: 180px; */
+  height: 311px;
+  background-color: var(--white-color);
+  border-radius: 8px;
+  float: left;
+  padding: 12px;
+  box-sizing: border-box;
+  position: relative;
+  margin: 0 20px 40px 20px ;
+}
+
+img {
+  width: 160px;
+  height: 180px;
+}
+
+.name {
+  min-height: 50px;
+  font-weight: bold;
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.prices {
+  display: flex;
+  color: #F04D2D;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+  padding-bottom: 10px;}
+
+.price0 {
+  color: #7F7F7F;
+  text-decoration: line-through;
+  padding-left: 10px;
+  font-weight: 400;
+}
+
+.stock {
+  font-size: 11px;
+  color: #333333;
+  width: 100%;
+  text-align: right;
+}
+
+.selloff {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  background-color: #FFD400;
+  border-top-right-radius: 8px;
+  padding-top: 5px;
+}
+
+.selloff::after {
+  position: absolute;
+  content: "";
+  left: 0;
+  border-width: 0 20px 30px;
+  border-style: solid;
+  border-color: transparent #FFD400 transparent #FFD400;
+  bottom: -30px;
+}
+
+.selloffPer {
+  margin-top: 5px;
+  color: rgb(228, 50, 50);
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  float: left;
+}
+
+.selloffOff {
+  color: var(--white-color);
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 14px;
+  float: left;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}

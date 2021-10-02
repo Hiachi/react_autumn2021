@@ -1,0 +1,14 @@
+.search {
+    border: solid 1px;
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+}
+
+.btn {
+    display: block;
+    margin: auto;
+    background-color: rgb(233, 53, 224);
+    font-weight: bold;
+    border: none;
+}

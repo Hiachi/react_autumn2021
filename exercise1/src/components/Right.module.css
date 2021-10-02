@@ -1,0 +1,12 @@
+.right {
+    /* padding-left: 20px; */
+    font-size: 18px;
+
+    margin: 0 auto;
+    border-bottom-style: groove;
+    text-align: left;
+}
+
+.topic {
+    font-weight: bold;
+}
